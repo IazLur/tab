@@ -1,0 +1,1 @@
+MsgBox "Unsupported language 'fr'", vbOk + vbExclamation, "Error"
