@@ -1,1 +1,1 @@
-MsgBox "Unsupported language 'fr'", vbOk + vbExclamation, "Error"
+MsgBox "Feature not yet available.", vbOk + vbExclamation, "Error"
