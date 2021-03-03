@@ -1,1 +1,1 @@
-MsgBox "Feature not yet available.", vbOk + vbExclamation, "Error"
+MsgBox "Invalid email or password.", vbOk + vbExclamation, "Error"
